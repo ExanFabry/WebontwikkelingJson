@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Blackened Recordings",
+        "foundedYear": 2012,
+        "isIndependent": true,
+        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA8uyQSzVYYeO6QqHFYU-mx5sRaxtXxoJ9Og&s"
+    },
+    {
+        "id": 2,
+        "name": "Parlophone Records",
+        "foundedYear": 1896,
+        "isIndependent": false,
+        "logoUrl": "data:image/png;base64,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"
+    },
+    {
+        "id": 3,
+        "name": "American Recordings",
+        "foundedYear": 1988,
+        "isIndependent": false,
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/48/Original_Def_American_logo.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Capitol Records",
+        "foundedYear": 1942,
+        "isIndependent": false,
+        "logoUrl": "https://static.wikia.nocookie.net/yungblud/images/2/2c/Capitol-Records.jpeg/revision/latest?cb=20240528214701"
+    },
+    {
+        "id": 5,
+        "name": "Vertigo Records",
+        "foundedYear": 1969,
+        "isIndependent": false,
+        "logoUrl": "https://writteninmusic.com/wp-content/uploads/2024/03/elbow-Audio-Vertigo.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Columbia Records",
+        "foundedYear": 1887,
+        "isIndependent": false,
+        "logoUrl": "https://i.pinimg.com/736x/c2/24/79/c2247963b08109884dbb50b331d935c1.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Atco Records",
+        "foundedYear": 1955,
+        "isIndependent": false,
+        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUVOYF2ixHyVYBC9aYtM_12r49Wt6WCWMEXA&s"
+    },
+    {
+        "id": 8,
+        "name": "Megaforce Records",
+        "foundedYear": 1982,
+        "isIndependent": true,
+        "logoUrl": "https://vampster.com/wp-content/uploads/megaforce-records.png"
+    },
+    {
+        "id": 9,
+        "name": "Roadrunner Records",
+        "foundedYear": 1980,
+        "isIndependent": false,
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Roadrunner_Records_Logo.svg/1280px-Roadrunner_Records_Logo.svg.png"
+    },
+    {
+        "id": 10,
+        "name": "Epic Records",
+        "foundedYear": 1953,
+        "isIndependent": false,
+        "logoUrl": "https://visualnatives.com/wp-content/uploads/2017/01/epic-header-1920x800.jpg"
+    }
+]
